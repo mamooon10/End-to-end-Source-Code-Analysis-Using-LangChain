@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ### Create a `.env` file in the root directory and add your OPENAI_API_KEY credentials as follows:
 
 ```ini
-OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+GROQ_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
 
@@ -48,6 +48,6 @@ open up localhost:
 - LangChain
 - Flask
 - OpenAI
-- GPT 3
+- ChatGroq
 - ChoromaDB
 
